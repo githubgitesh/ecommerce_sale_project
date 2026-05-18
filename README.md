@@ -53,4 +53,4 @@ This is an e-commerce sales analytics project for **Mahajan Store**, containing 
 - Payment preference trends
 
 ---
-**Last Updated**: 2026-05-18
+
